@@ -1,0 +1,16 @@
+PODS:
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: 9f7eaf7686bcc8aa043e0847b79feed7c20d7aba
+
+COCOAPODS: 1.9.1
