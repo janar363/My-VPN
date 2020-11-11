@@ -110,7 +110,7 @@ class ViewController: UIViewController {
             do {
                 try vpn.connection.startVPNTunnel()
             } catch {
-                // Handelling connection failer
+                // Handelling connection failure
                 
                 let alertController = UIAlertController(title: "Unable to connect", message: "Error occured while connecting to the server :(", preferredStyle: .alert)
                 
